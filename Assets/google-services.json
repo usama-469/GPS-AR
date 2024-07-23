@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "871657446276",
+    "firebase_url": "https://gps-ar-d3ec5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gps-ar-d3ec5",
+    "storage_bucket": "gps-ar-d3ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871657446276:android:062d53ec1bdc5d34005bd1",
+        "android_client_info": {
+          "package_name": "com.RenderReality.CustomCloudanchorsGPS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNkL9iUadAwfW1LswspcIRaLxG5nupow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
