@@ -44,7 +44,8 @@ Watch the app in action: [Link to Video Demo](#)
 
 ## Tools Used
 - **Unity:** For building the AR environment and cross-platform support.
-- **AR Foundation:** To create AR experiences on Android and iOS.
+- **AR Foundation:** To create the core logic behind the AR experiences.
+- **ARCore and ARKit libraries:** To create AR experiences on Android and iOS respectively.
 - **Firebase:** For real-time GPS data synchronization and user authentication.
 - **Google Maps SDK:** For mapping and geolocation services.
 - **Cloud Storage:** For location-based data storage and retrieval mechanisms.
