@@ -4,6 +4,8 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
+- [Video Demo](#video-demo)
+- [Benifits](#benifits)
 - [Tools Used](#tools-used)
 - [Requirements](#requirements)
 
