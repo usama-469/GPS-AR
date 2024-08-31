@@ -19,8 +19,8 @@ The GPS AR App is a cross-platform application designed for Android and iOS that
 
 ## Usage
 1. **Setup and Installation:**
-   - Download and install the app from the [Google Play Store](#) or [Apple App Store](#).
-   - Sign in with your account to start using the app.
+   - Build the .apk application for Android or sideload for the iOS device.
+   - Connect a Firebase server or any other server for quick data storage and retrieval to initiate the app.
 
 2. **Navigating the AR Environment:**
    - The app will request permission to access your location. Ensure that GPS is enabled on your device.
