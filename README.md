@@ -5,7 +5,7 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Video Demo](#video-demo)
-- [Benifits](#benifits)
+- [Benefits](#benefits)
 - [Tools Used](#tools-used)
 - [Requirements](#requirements)
 
