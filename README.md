@@ -4,10 +4,15 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Video Demo](#video-demo)
 - [Benefits](#benefits)
 - [Tools Used](#tools-used)
 - [Requirements](#requirements)
+
+
+
+Uploading Lightship ARDK.mp4…
+
+
 
 ## Introduction
 The GPS AR App is a cross-platform application designed for Android and iOS that utilizes Augmented Reality (AR) to display real-time GPS data to users. By leveraging Firebase for real-time data synchronization, the app ensures that all users connected to the network see the same AR elements based on their geographical location. The app also features geofencing capabilities, allowing for location-based interactions, and supports touch interactions within the AR environment.
@@ -36,8 +41,6 @@ The GPS AR App is a cross-platform application designed for Android and iOS that
    - Set up geofences through the app's settings. 
    - When you enter or exit a geofenced area, AR events or notifications will be triggered.
 
-## Video Demo
-Watch the app in action: [Link to Video Demo](#)
 
 ## Benefits
 - **Enhanced User Experience:** Offers an immersive AR experience with real-time data, making navigation and interaction more engaging.
